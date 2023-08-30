@@ -1,4 +1,4 @@
-package fr.norsys.tverhoken.mutationtesting;
+package fr.norsys.tverhoken.mutationtesting.almostgood;
 
 import java.io.IOException;
 import java.net.URI;

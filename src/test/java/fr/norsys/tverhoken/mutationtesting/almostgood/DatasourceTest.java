@@ -1,4 +1,4 @@
-package fr.norsys.tverhoken.mutationtesting;
+package fr.norsys.tverhoken.mutationtesting.almostgood;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
