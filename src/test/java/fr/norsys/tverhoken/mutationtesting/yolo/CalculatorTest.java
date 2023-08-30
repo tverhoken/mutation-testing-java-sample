@@ -1,5 +1,6 @@
-package fr.norsys.tverhoken.mutationtesting;
+package fr.norsys.tverhoken.mutationtesting.yolo;
 
+import fr.norsys.tverhoken.mutationtesting.yolo.Calculator;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 

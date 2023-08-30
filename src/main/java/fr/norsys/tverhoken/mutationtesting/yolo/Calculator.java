@@ -1,4 +1,4 @@
-package fr.norsys.tverhoken.mutationtesting;
+package fr.norsys.tverhoken.mutationtesting.yolo;
 
 public class Calculator {
 
